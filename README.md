@@ -5,5 +5,7 @@
 **Supported languages**
 
 *   English
-*   Portuguese 
+*   Portuguese
+*   Spanish
+*   French
 
