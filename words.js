@@ -1,5 +1,5 @@
 export const words = [
-  {
+   {
     english: {
       word: "Absence",
       definition: "the state of being away from a place or person",
@@ -9,6 +9,16 @@ export const words = [
       word: "Ausência",
       definition: "o estado de estar longe de um lugar ou pessoa",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Ausencia",
+      definition: "el estado de no estar en un lugar o con una persona",
+      language: "es-ES",
+    },
+    french: {
+      word: "Absence",
+      definition: "l'état d'être éloigné d'un lieu ou d'une personne",
+      language: "fr-FR",
     },
   },
   {
@@ -22,6 +32,16 @@ export const words = [
       definition: "mostrar ou provar estar certo ou com razão",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Justificar",
+      definition: "mostrar o probar que algo es correcto o razonable",
+      language: "es-ES",
+    },
+    french: {
+      word: "Justifier",
+      definition: "montrer ou prouver qu'une chose est juste ou raisonnable",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -33,6 +53,16 @@ export const words = [
       word: "Acadêmico",
       definition: "relacionado à educação e estudos",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Académico",
+      definition: "relativo a la educación y la erudición",
+      language: "es-ES",
+    },
+    french: {
+      word: "Académique",
+      definition: "relatif à l'éducation et aux études",
+      language: "fr-FR",
     },
   },
   {
@@ -46,6 +76,17 @@ export const words = [
       definition: "uma sala ou área onde a comida é preparada e cozida",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Cocina",
+      definition: "una sala o área donde se prepara y cocina la comida",
+      language: "es-ES",
+    },
+    french: {
+      word: "Cuisine",
+      definition:
+        "une pièce ou un endroit où la nourriture est préparée et cuisinée",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -57,6 +98,17 @@ export const words = [
       word: "Acompanhar",
       definition: "ir a algum lugar com alguém como acompanhante ou escolta",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Acompañar",
+      definition: "ir a algún lugar con alguien como compañero o escolta",
+      language: "es-ES",
+    },
+    french: {
+      word: "Accompagner",
+      definition:
+        "aller quelque part avec quelqu'un comme compagnon ou escorte",
+      language: "fr-FR",
     },
   },
   {
@@ -71,6 +123,18 @@ export const words = [
         "a articulação entre a coxa e a parte inferior da perna em humanos",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Rodilla",
+      definition:
+        "la articulación entre el muslo y la parte inferior de la pierna en humanos",
+      language: "es-ES",
+    },
+    french: {
+      word: "Genou",
+      definition:
+        "l'articulation entre la cuisse et la partie inférieure de la jambe chez les humains",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -82,6 +146,16 @@ export const words = [
       word: "Realizar",
       definition: "alcançar ou concluir com sucesso",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Realizar",
+      definition: "lograr o completar con éxito",
+      language: "es-ES",
+    },
+    french: {
+      word: "Réaliser",
+      definition: "atteindre ou achever avec succès",
+      language: "fr-FR",
     },
   },
   {
@@ -97,6 +171,18 @@ export const words = [
         "um instrumento composto por uma lâmina fixada em um cabo, usado para cortar ou como arma",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Cuchillo",
+      definition:
+        "un instrumento compuesto por una hoja fijada en un mango, utilizado para cortar o como arma",
+      language: "es-ES",
+    },
+    french: {
+      word: "Couteau",
+      definition:
+        "un instrument composé d'une lame fixée dans un manche, utilisé pour couper ou comme arme",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -108,6 +194,17 @@ export const words = [
       word: "Reconhecer",
       definition: "aceitar ou admitir a existência ou verdade de algo",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Reconocer",
+      definition: "aceptar o admitir la existencia o la verdad de algo",
+      language: "es-ES",
+    },
+    french: {
+      word: "Reconnaître",
+      definition:
+        "accepter ou admettre l'existence ou la vérité de quelque chose",
+      language: "fr-FR",
     },
   },
   {
@@ -123,6 +220,18 @@ export const words = [
         "bater em uma superfície ruidosamente para atrair a atenção, especialmente quando estiver esperando para entrar por uma porta",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Llamar",
+      definition:
+        "golpear una superficie ruidosamente para atraer atención, especialmente cuando se espera ser admitido a través de una puerta",
+      language: "es-ES",
+    },
+    french: {
+      word: "Frapper",
+      definition:
+        "frapper une surface bruyamment pour attirer l'attention, notamment en attendant d'être laissé entrer par une porte",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -134,6 +243,17 @@ export const words = [
       word: "Adaptar",
       definition: "tornar (algo) adequado para um novo uso ou propósito",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Adaptar",
+      definition: "hacer que algo sea adecuado para un nuevo uso o propósito",
+      language: "es-ES",
+    },
+    french: {
+      word: "Adapter",
+      definition:
+        "rendre quelque chose approprié pour une nouvelle utilisation ou un nouveau but",
+      language: "fr-FR",
     },
   },
   {
@@ -147,6 +267,17 @@ export const words = [
       definition:
         "estar ciente por meio de observação, investigação ou informação",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Saber / Conocer",
+      definition:
+        "estar consciente por medio de observación, investigación o información",
+      language: "es-ES",
+    },
+    french: {
+      word: "Savoir / Connaître",
+      definition: "être conscient par observation, enquête ou information",
+      language: "fr-FR",
     },
   },
   {
@@ -162,6 +293,18 @@ export const words = [
         "o processo ou atividade de administrar um negócio, organização, etc",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Administración",
+      definition:
+        "el proceso o actividad de dirigir un negocio, organización, etc.",
+      language: "es-ES",
+    },
+    french: {
+      word: "Administration",
+      definition:
+        "le processus ou l'activité de gérer une entreprise, une organisation, etc.",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -176,6 +319,18 @@ export const words = [
         "fatos, informações e habilidades adquiridas por uma pessoa por meio de experiência ou educação; a compreensão teórica ou prática de um assunto",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Conocimiento",
+      definition:
+        "hechos, información y habilidades adquiridas por una persona a través de la experiencia o la educación; la comprensión teórica o práctica de un tema",
+      language: "es-ES",
+    },
+    french: {
+      word: "Connaissance",
+      definition:
+        "faits, informations et compétences acquis par une personne à travers l'expérience ou l'éducation; la compréhension théorique ou pratique d'un sujet",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -187,6 +342,16 @@ export const words = [
       word: "Afetar",
       definition: "tem efeito em; fazer a diferença para",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Afectar",
+      definition: "tener un efecto en; hacer una diferencia a",
+      language: "es-ES",
+    },
+    french: {
+      word: "Affecter",
+      definition: "avoir un effet sur; faire une différence à",
+      language: "fr-FR",
     },
   },
   {
@@ -202,6 +367,18 @@ export const words = [
         "a parte da superfície da terra que não é coberta por água, em oposição ao mar ou ao ar",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Tierra",
+      definition:
+        "la parte de la superficie terrestre que no está cubierta por agua, en oposición al mar o al aire",
+      language: "es-ES",
+    },
+    french: {
+      word: "Terre",
+      definition:
+        "la partie de la surface de la terre qui n'est pas couverte par l'eau, par opposition à la mer ou à l'air",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -213,6 +390,16 @@ export const words = [
       word: "Proporcionar",
       definition: "tem dinheiro suficiente para pagar por algo",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Proporcionar",
+      definition: "tener suficiente dinero para pagar algo",
+      language: "es-ES",
+    },
+    french: {
+      word: "Fournir",
+      definition: "avoir assez d'argent pour payer quelque chose",
+      language: "fr-FR",
     },
   },
   {
@@ -226,6 +413,17 @@ export const words = [
       word: "Análise",
       definition: "exame detalhado dos elementos ou estrutura de algo",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Análisis",
+      definition: "examen detallado de los elementos o estructura de algo",
+      language: "es-ES",
+    },
+    french: {
+      word: "Analyse",
+      definition:
+        "examen détaillé des éléments ou de la structure de quelque chose",
+      language: "fr-FR",
     },
   },
   {
@@ -241,6 +439,18 @@ export const words = [
         "o principal método de comunicação humana, consistindo em palavras usadas de forma estruturada e convencional e transmitidas por fala, escrita ou gesto",
       language: "pt-BR",
     },
+    spanish: {
+      word: "Lenguaje",
+      definition:
+        "el método principal de comunicación humana, consistente en palabras utilizadas de manera estructurada y convencional y transmitidas por el habla, la escritura o el gesto",
+      language: "es-ES",
+    },
+    french: {
+      word: "Langage",
+      definition:
+        "le principal moyen de communication humaine, constitué de mots utilisés de manière structurée et conventionnelle et transmis par la parole, l'écriture ou le geste",
+      language: "fr-FR",
+    },
   },
   {
     english: {
@@ -252,6 +462,16 @@ export const words = [
       word: "Aparentemente",
       definition: "tanto quanto se sabe ou pode ver",
       language: "pt-BR",
+    },
+    spanish: {
+      word: "Aparentemente",
+      definition: "por lo que se sabe o puede ver",
+      language: "es-ES",
+    },
+    french: {
+      word: "Apparemment",
+      definition: "autant que l'on sache ou puisse voir",
+      language: "fr-FR",
     },
   },
   // {
