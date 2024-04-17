@@ -1,5 +1,5 @@
 export const words = [
-   {
+ {
     english: {
       word: "Absence",
       definition: "the state of being away from a place or person",
@@ -19,6 +19,17 @@ export const words = [
       word: "Absence",
       definition: "l'état d'être éloigné d'un lieu ou d'une personne",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Absență",
+      definition: "starea de a fi departe de un loc sau o persoană",
+    },
+    german: {
+      language: "de-DE",
+      word: "Abwesenheit",
+      definition:
+        "der Zustand, nicht an einem Ort oder bei einer Person zu sein",
     },
   },
   {
@@ -42,6 +53,17 @@ export const words = [
       definition: "montrer ou prouver qu'une chose est juste ou raisonnable",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Justifica",
+      definition: "a demonstra sau a dovedi că este corect sau rațional",
+    },
+    german: {
+      language: "de-DE",
+      word: "Rechtfertigen",
+      definition:
+        "zeigen oder beweisen, dass etwas richtig oder vernünftig ist",
+    },
   },
   {
     english: {
@@ -63,6 +85,16 @@ export const words = [
       word: "Académique",
       definition: "relatif à l'éducation et aux études",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Academic",
+      definition: "referitor la educație și studii academice",
+    },
+    german: {
+      language: "de-DE",
+      word: "Akademisch",
+      definition: "bezieht sich auf Bildung und Wissenschaft",
     },
   },
   {
@@ -87,6 +119,17 @@ export const words = [
         "une pièce ou un endroit où la nourriture est préparée et cuisinée",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Bucătărie",
+      definition: "o cameră sau zonă unde se pregătește și se gătește mâncarea",
+    },
+    german: {
+      language: "de-DE",
+      word: "Küche",
+      definition:
+        "ein Raum oder Bereich, in dem Essen zubereitet und gekocht wird",
+    },
   },
   {
     english: {
@@ -109,6 +152,16 @@ export const words = [
       definition:
         "aller quelque part avec quelqu'un comme compagnon ou escorte",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Însoți",
+      definition: "a merge undeva cu cineva ca tovarăș sau escortă",
+    },
+    german: {
+      language: "de-DE",
+      word: "Begleiten",
+      definition: "irgendwohin mit jemandem als Begleiter oder Eskorte gehen",
     },
   },
   {
@@ -135,6 +188,18 @@ export const words = [
         "l'articulation entre la cuisse et la partie inférieure de la jambe chez les humains",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Genunchi",
+      definition:
+        "articulația dintre coapsă și partea inferioară a piciorului la oameni",
+    },
+    german: {
+      language: "de-DE",
+      word: "Knie",
+      definition:
+        "das Gelenk zwischen Oberschenkel und Unterschenkel beim Menschen",
+    },
   },
   {
     english: {
@@ -156,6 +221,16 @@ export const words = [
       word: "Réaliser",
       definition: "atteindre ou achever avec succès",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Realiza",
+      definition: "a realiza sau a completa cu succes",
+    },
+    german: {
+      language: "de-DE",
+      word: "Vollbringen",
+      definition: "etwas erfolgreich erreichen oder abschließen",
     },
   },
   {
@@ -183,6 +258,18 @@ export const words = [
         "un instrument composé d'une lame fixée dans un manche, utilisé pour couper ou comme arme",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Cuțit",
+      definition:
+        "un instrument compus dintr-o lamă fixată într-un mâner, utilizat pentru tăiere sau ca armă",
+    },
+    german: {
+      language: "de-DE",
+      word: "Messer",
+      definition:
+        "ein Werkzeug bestehend aus einer in einen Griff eingefassten Klinge, verwendet zum Schneiden oder als Waffe",
+    },
   },
   {
     english: {
@@ -205,6 +292,17 @@ export const words = [
       definition:
         "accepter ou admettre l'existence ou la vérité de quelque chose",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Recunoaște",
+      definition: "a accepta sau a admite existența sau adevărul a ceva",
+    },
+    german: {
+      language: "de-DE",
+      word: "Anerkennen",
+      definition:
+        "die Existenz oder Wahrheit von etwas akzeptieren oder zugeben",
     },
   },
   {
@@ -232,6 +330,18 @@ export const words = [
         "frapper une surface bruyamment pour attirer l'attention, notamment en attendant d'être laissé entrer par une porte",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Bate",
+      definition:
+        "a lovi zgomotos o suprafață pentru a atrage atenția, în special când aștepți să fii lăsat să intri printr-o ușă",
+    },
+    german: {
+      language: "de-DE",
+      word: "Klopfen",
+      definition:
+        "laut auf eine Oberfläche schlagen, um Aufmerksamkeit zu erregen, besonders wenn man darauf wartet, durch eine Tür eingelassen zu werden",
+    },
   },
   {
     english: {
@@ -254,6 +364,17 @@ export const words = [
       definition:
         "rendre quelque chose approprié pour une nouvelle utilisation ou un nouveau but",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Adapta",
+      definition: "a face (ceva) potrivit pentru un nou scop sau utilizare",
+    },
+    german: {
+      language: "de-DE",
+      word: "Anpassen",
+      definition:
+        "etwas für eine neue Verwendung oder einen neuen Zweck geeignet machen",
     },
   },
   {
@@ -278,6 +399,17 @@ export const words = [
       word: "Savoir / Connaître",
       definition: "être conscient par observation, enquête ou information",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Ști / Cunoaște",
+      definition: "a fi conștient prin observație, anchetă sau informație",
+    },
+    german: {
+      language: "de-DE",
+      word: "Wissen / Kennen",
+      definition:
+        "durch Beobachtung, Untersuchung oder Information bewusst sein",
     },
   },
   {
@@ -305,6 +437,18 @@ export const words = [
         "le processus ou l'activité de gérer une entreprise, une organisation, etc.",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Administrație",
+      definition:
+        "procesul sau activitatea de a conduce o afacere, organizație, etc.",
+    },
+    german: {
+      language: "de-DE",
+      word: "Verwaltung",
+      definition:
+        "der Prozess oder die Tätigkeit, ein Geschäft oder eine Organisation zu führen",
+    },
   },
   {
     english: {
@@ -331,6 +475,18 @@ export const words = [
         "faits, informations et compétences acquis par une personne à travers l'expérience ou l'éducation; la compréhension théorique ou pratique d'un sujet",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Cunoștințe",
+      definition:
+        "fapte, informații și abilități dobândite de o persoană prin experiență sau educație; înțelegerea teoretică sau practică a unui subiect",
+    },
+    german: {
+      language: "de-DE",
+      word: "Wissen",
+      definition:
+        "Fakten, Informationen und Fähigkeiten, die eine Person durch Erfahrung oder Bildung erwirbt; das theoretische oder praktische Verständnis eines Themas",
+    },
   },
   {
     english: {
@@ -352,6 +508,16 @@ export const words = [
       word: "Affecter",
       definition: "avoir un effet sur; faire une différence à",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Afecta",
+      definition: "a avea un efect asupra; a face o diferență pentru",
+    },
+    german: {
+      language: "de-DE",
+      word: "Beeinflussen",
+      definition: "eine Wirkung auf etwas haben; einen Unterschied machen",
     },
   },
   {
@@ -379,6 +545,18 @@ export const words = [
         "la partie de la surface de la terre qui n'est pas couverte par l'eau, par opposition à la mer ou à l'air",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Pământ",
+      definition:
+        "partea suprafeței pământului care nu este acoperită de apă, spre deosebire de mare sau aer",
+    },
+    german: {
+      language: "de-DE",
+      word: "Land",
+      definition:
+        "der Teil der Erdoberfläche, der nicht von Wasser bedeckt ist, im Gegensatz zum Meer oder zur Luft",
+    },
   },
   {
     english: {
@@ -400,6 +578,16 @@ export const words = [
       word: "Fournir",
       definition: "avoir assez d'argent pour payer quelque chose",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Permite",
+      definition: "a avea suficient bani pentru a plăti pentru ceva",
+    },
+    german: {
+      language: "de-DE",
+      word: "Leisten",
+      definition: "genug Geld haben, um etwas zu bezahlen",
     },
   },
   {
@@ -424,6 +612,17 @@ export const words = [
       definition:
         "examen détaillé des éléments ou de la structure de quelque chose",
       language: "fr-FR",
+    },
+    romanian: {
+      language: "ro-RO",
+      word: "Analiză",
+      definition: "examinare detaliată a elementelor sau structurii a ceva",
+    },
+    german: {
+      language: "de-DE",
+      word: "Analyse",
+      definition:
+        "detaillierte Untersuchung der Elemente oder der Struktur von etwas",
     },
   },
   {
@@ -451,6 +650,18 @@ export const words = [
         "le principal moyen de communication humaine, constitué de mots utilisés de manière structurée et conventionnelle et transmis par la parole, l'écriture ou le geste",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Limbaj",
+      definition:
+        "principalul mod de comunicare umană, constând în cuvinte utilizate într-un mod structurat și convențional și transmise prin vorbire, scriere sau gest",
+    },
+    german: {
+      language: "de-DE",
+      word: "Sprache",
+      definition:
+        "das hauptsächliche Mittel menschlicher Kommunikation, bestehend aus in strukturierter und konventioneller Weise verwendeten Wörtern, übermittelt durch Sprechen, Schreiben oder Gesten",
+    },
   },
   {
     english: {
@@ -473,1345 +684,15 @@ export const words = [
       definition: "autant que l'on sache ou puisse voir",
       language: "fr-FR",
     },
+    romanian: {
+      language: "ro-RO",
+      word: "Aparent",
+      definition: "pe cât se știe sau se poate vedea",
+    },
+    german: {
+      language: "de-DE",
+      word: "Anscheinend",
+      definition: "soweit man weiß oder sehen kann",
+    },
   },
-  // {
-  //   english: { word: "lap", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Background",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "large", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Balance", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "largely", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Besides", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Last", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Beside", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "manufacturing",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Beyond", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "many", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Borrow", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "map", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Boundary", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "margin", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Budget", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "mark", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Building", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "market", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Business", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Marketing", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Calculate", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "negotiation",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Campaign", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "neighbor", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Campus", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "neighborhood",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Capability",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "neither", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Capacity", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Nerve", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Category", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "objective", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Challenge", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "obligation",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Characteristic",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "observation",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Civil", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Observe", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Coalition", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "opportunity",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Colonial", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Oppose", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Deal", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "porch", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Defensive", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "port", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Democracy", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "portion", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Description",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "portrait", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Dialogue", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "portray", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Dimension", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "pose", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Discrimination",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Position", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Distinction",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "qualify", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Distinguish",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "quality", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "elementary",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Quarter", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "eliminate", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "quit", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "elite", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "quite", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "else", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Quote", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "elsewhere", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "recipe", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "e-mail", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Recognition",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "embrace", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "refugee", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "emerge", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "refuse", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "emergency", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Regard", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "emission", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "scientist", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Emotion", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "scope", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "fewer", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "score", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "fiber", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "scream", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "fiction", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "screen", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Field", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Script", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "foreign", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "tactic", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "forest", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "tail", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "forever", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "take", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "forget", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "tale", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "form", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Talent", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "formal", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "ultimately",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Formation", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "unable", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "gaze", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "uncle", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "gear", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "under", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "gender", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "undergo", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "gene", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Understand",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "general", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "victory", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "generate", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "video", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "generation",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "view", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "genetic", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "viewer", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "highlight", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "village", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "highly", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "violate", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Highway", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Violation", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "holiday", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "wealthy", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "holy", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "weapon", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Home", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "wear", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "illustrate",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "weather", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "image", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "wedding", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Imagination",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Week", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "impact", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "yard", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "implement", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "yeah", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Implication",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "year", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "income", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "yell", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "Incorporate",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "yellow", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: {
-  //     word: "journalist",
-  //     definition: "definition",
-  //     language: "en-US",
-  //   },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "yes", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "journey", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Yesterday", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "joy", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Zone", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
-  // {
-  //   english: { word: "Judge", definition: "definition", language: "en-US" },
-  //   portuguese: {
-  //     word: "word in portuguese",
-  //     definition: "definition in portuguese",
-  //     language: "pt-BR",
-  //   },
-  // },
 ];
