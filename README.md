@@ -8,4 +8,6 @@
 *   Portuguese
 *   Spanish
 *   French
+*   Romanian
+*   German
 
