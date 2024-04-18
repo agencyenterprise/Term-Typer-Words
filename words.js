@@ -695,4 +695,292 @@ export const words = [
       definition: "soweit man weiß oder sehen kann",
     },
   },
+  {
+    english: {
+      word: "Resilience",
+      definition: "the capacity to recover quickly from difficulties; toughness",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Resiliência",
+      definition: "a capacidade de se recuperar rapidamente das dificuldades; resistência",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Resiliencia",
+      definition: "la capacidad de recuperarse rápidamente de las dificultades; resistencia",
+      language: "es-ES",
+    },
+    french: {
+      word: "Résilience",
+      definition: "la capacité de se remettre rapidement des difficultés; robustesse",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Reziliență",
+      definition: "capacitatea de a te recupera rapid după dificultăți; rezistență",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Resilienz",
+      definition: "die Fähigkeit, sich schnell von Schwierigkeiten zu erholen; Zähigkeit",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Innovation",
+      definition: "a new method, idea, product, etc.",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Inovação",
+      definition: "um novo método, ideia, produto, etc.",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Innovación",
+      definition: "un nuevo método, idea, producto, etc.",
+      language: "es-ES",
+    },
+    french: {
+      word: "Innovation",
+      definition: "une nouvelle méthode, idée, produit, etc.",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Inovație",
+      definition: "o metodă nouă, idee, produs, etc.",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Innovation",
+      definition: "eine neue Methode, Idee, Produkt, usw.",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Empathy",
+      definition: "the ability to understand and share the feelings of another",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Empatia",
+      definition: "a habilidade de entender e compartilhar os sentimentos de outro",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Empatía",
+      definition: "la capacidad de entender y compartir los sentimientos de otro",
+      language: "es-ES",
+    },
+    french: {
+      word: "Empathie",
+      definition: "la capacité de comprendre et de partager les sentiments d'autrui",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Empatie",
+      definition: "capacitatea de a înțelege și de a împărtăși sentimentele altuia",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Empathie",
+      definition: "die Fähigkeit, die Gefühle eines anderen zu verstehen und zu teilen",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Sustainability",
+      definition: "the ability to be maintained at a certain rate or level",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Sustentabilidade",
+      definition: "a capacidade de ser mantido em uma determinada taxa ou nível",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Sostenibilidad",
+      definition: "la capacidad de mantenerse a una cierta tasa o nivel",
+      language: "es-ES",
+    },
+    french: {
+      word: "Durabilité",
+      definition: "la capacité à être maintenu à un certain taux ou niveau",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Sustenabilitate",
+      definition: "capacitatea de a fi menținut la un anumit ritm sau nivel",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Nachhaltigkeit",
+      definition: "die Fähigkeit, auf einem bestimmten Niveau oder Rate aufrechterhalten zu werden",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Integrity",
+      definition: "the quality of being honest and having strong moral principles",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Integridade",
+      definition: "a qualidade de ser honesto e ter fortes princípios morais",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Integridad",
+      definition: "la calidad de ser honesto y tener fuertes principios morales",
+      language: "es-ES",
+    },
+    french: {
+      word: "Intégrité",
+      definition: "la qualité d'être honnête et d'avoir de forts principes moraux",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Integritate",
+      definition: "calitatea de a fi onest și de a avea principii morale solide",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Integrität",
+      definition: "die Qualität, ehrlich zu sein und starke moralische Prinzipien zu haben",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Collaborate",
+      definition: "work jointly on an activity or project",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Colaborar",
+      definition: "trabalhar em conjunto em uma atividade ou projeto",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Colaborar",
+      definition: "trabajar conjuntamente en una actividad o proyecto",
+      language: "es-ES",
+    },
+    french: {
+      word: "Collaborer",
+      definition: "travailler conjointement sur une activité ou un projet",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Colabora",
+      definition: "a lucra împreună la o activitate sau un proiect",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Kollaborieren",
+      definition: "gemeinsam an einer Aktivität oder einem Projekt arbeiten",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Optimize",
+      definition: "make the best or most effective use of a situation, opportunity, or resource",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Otimizar",
+      definition: "fazer o melhor ou mais eficaz uso de uma situação, oportunidade ou recurso",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Optimizar",
+      definition: "hacer el mejor o más eficaz uso de una situación, oportunidad o recurso",
+      language: "es-ES",
+    },
+    french: {
+      word: "Optimiser",
+      definition: "faire le meilleur ou le plus efficace usage d'une situation, opportunité ou ressource",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Optimiza",
+      definition: "a utiliza la maximum o situație, oportunitate sau resursă",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Optimieren",
+      definition: "die beste oder effektivste Nutzung einer Situation, Gelegenheit oder Ressource machen",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Clarify",
+      definition: "make (a statement or situation) less confused and more comprehensible",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Clarificar",
+      definition: "tornar (uma declaração ou situação) menos confusa e mais compreensível",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Aclarar",
+      definition: "hacer (una declaración o situación) menos confusa y más comprensible",
+      language: "es-ES",
+    },
+    french: {
+      word: "Clarifier",
+      definition: "rendre (une déclaration ou une situation) moins confuse et plus compréhensible",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Clarifica",
+      definition: "a face (o declarație sau o situație) mai puțin confuză și mai comprehensibilă",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Klären",
+      definition: "eine Aussage oder Situation weniger verwirrend und verständlicher machen",
+      language: "de-DE",
+    },
+  },
+  {
+    english: {
+      word: "Transform",
+      definition: "make a thorough or dramatic change in the form, appearance, or character of",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Transformar",
+      definition: "fazer uma mudança radical ou dramática na forma, aparência ou caráter de",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Transformar",
+      definition: "hacer un cambio radical o dramático en la forma, apariencia o carácter de",
+      language: "es-ES",
+    },
+    french: {
+      word: "Transformer",
+      definition: "effectuer un changement radical ou spectaculaire de la forme, de l'apparence ou du caractère de",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Transforma",
+      definition: "a face o schimbare radicală sau dramatică a formei, aspectului sau caracterului",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Transformieren",
+      definition: "eine gründliche oder dramatische Veränderung der Form, des Aussehens oder des Charakters vornehmen",
+      language: "de-DE",
+    },
+  }
 ];
