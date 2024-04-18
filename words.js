@@ -982,5 +982,37 @@ export const words = [
       definition: "eine gründliche oder dramatische Veränderung der Form, des Aussehens oder des Charakters vornehmen",
       language: "de-DE",
     },
-  }
+  },
+  {
+    english: {
+      word: "Perseverance",
+      definition: "persistence in doing something despite difficulty or delay in achieving success",
+      language: "en-US",
+    },
+    portuguese: {
+      word: "Perseverança",
+      definition: "persistência em fazer algo apesar das dificuldades ou atrasos para alcançar o sucesso",
+      language: "pt-BR",
+    },
+    spanish: {
+      word: "Perseverancia",
+      definition: "persistencia en hacer algo a pesar de la dificultad o demora en alcanzar el éxito",
+      language: "es-ES",
+    },
+    french: {
+      word: "Persévérance",
+      definition: "persistance à faire quelque chose malgré les difficultés ou les retards pour obtenir du succès",
+      language: "fr-FR",
+    },
+    romanian: {
+      word: "Perseverență",
+      definition: "persistența în a face ceva în ciuda dificultăților sau întârzierilor în atingerea succesului",
+      language: "ro-RO",
+    },
+    german: {
+      word: "Ausdauer",
+      definition: "Beharrlichkeit beim Verfolgen eines Ziels trotz Schwierigkeiten oder Verzögerungen beim Erreichen von Erfolg",
+      language: "de-DE",
+    },
+  }  
 ];
